@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://yugeshk.github.io"
+url: "https://tejeshvaish.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -13,7 +13,7 @@ url: "https://yugeshk.github.io"
 # NB! Without this *nothing* will work, because it's used in every path :)
 
 baseurl: ""
-cv: "YugeshAjitKothari.pdf"
+cv: "Tejesh_CV.pdf"
 
 # Google tracking id
 
@@ -30,10 +30,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "Yugesh Kothari"
-title: "{ Yugesh Kothari }"
-description: "By the perplexed, for the perplexed - Yugesh Kothari"
-keywords: "yugesh, kothari"
+author: "Tejesh Vaish"
+title: "{ Tejesh Vaish }"
+description: "By the coder, for the coder, Tejesh"
+keywords: "tejesh, vaish"
 favicon: "/img/geek.png"
 
 ################
@@ -163,8 +163,8 @@ timeline-img: "/img/timeline/iitk.png"
 # Contact #
 ###########
 
-email: "yugesh.kothari@gmail.com"
-phone: +91-9123159658
+email: "tvaish96@gmail.com"
+phone: +91-7523967288
 
 ################
 # Author Blurb #
@@ -174,7 +174,7 @@ phone: +91-9123159658
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Yugesh is a fianl year CS undergrad at IIT Kanpur. His research interests include software systems, program verification and programming languages."
+author_blurb: "Yugesh is a Sophomore CS undergrad at IIT Kanpur. His research interests include MAchine Learning, Algorithms and Programming languages."
 author_blurb_image: "/img/author.jpg"
 
 ##################
@@ -183,11 +183,10 @@ author_blurb_image: "/img/author.jpg"
 
 social:
   - title: "facebook"
-    url: "https://www.facebook.com/yugesh.kothari"
-  - title: "twitter"
-    url: "https://twitter.com/YugeshKothari"
+    url: "https://www.facebook.com/profile.php?id=100006787877524"
+  
   - title: "github"
-    url: "https://github.com/yugeshk"
+    url: "https://github.com/tejeshvaish"
 
 ############
 # 404 page #
