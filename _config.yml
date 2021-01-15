@@ -31,7 +31,7 @@ force-https: True
 
 lang: "en"
 author: "Tejesh Vaish"
-title: "{ Tejesh Vaish }"
+title: "Tejesh Vaish"
 description: "By the coder, for the coder, Tejesh"
 keywords: "tejesh, vaish"
 favicon: "/img/geek.png"
@@ -60,7 +60,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Just kidding, go document your code."
   - text: "Where’s your will to be weird?"
 
-me-img: "/img/author.jpg"
+me-img: "/img/Author.jpg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
